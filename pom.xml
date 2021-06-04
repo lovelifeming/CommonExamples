@@ -11,7 +11,7 @@
     <properties>
         <junit.version>4.12</junit.version>
         <maven.plugins.version>2.17</maven.plugins.version>
-        <httpclient.version>4.5.3</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <servlet-api.version>4.0.0</servlet-api.version>
         <jstl.version>1.2</jstl.version>
         <!--JSONObject-->
